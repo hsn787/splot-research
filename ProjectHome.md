@@ -1,0 +1,1 @@
+The primary goal of SPLOT is to put Software Product Lines research into practice through the delivery of state-of-the-art online tools targeting academics and practitioners in the field. With SPLOT you can edit, debug, analyze, configure, share and download feature models instantly.
